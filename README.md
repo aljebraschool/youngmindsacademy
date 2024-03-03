@@ -4,7 +4,7 @@ Welcome to YoungMindsAcademy! This repository is part of our project for a leade
 
 ## Purpose
 
-YoungMindsAcademy is more than just a coding platform; it's a leadership project aimed at providing leadership skills to students in the Master's program in Collective Intelligence at UM6P. Through this project, students learn to lead a team, manage resources, and execute a project from start to finish.
+YoungMindsAcademy is more than just a coding platform; it's a leadership project aimed at providing leadership skills to students. Through this project, students learn to lead a team, manage resources, and execute a project from start to finish.
 
 ## Features
 
